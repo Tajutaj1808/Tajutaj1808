@@ -13,10 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tajutaj1808&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Tajutaj1808&theme=tokyonight&column=4)
-![](https://github-profile-trophy.vercel.app/?username=Tajutaj1808&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=Tajutaj1808&icon=4&color=0)](https://visitcount.itsvg.in)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tajutaj1808&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
