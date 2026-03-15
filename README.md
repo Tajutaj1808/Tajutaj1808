@@ -13,6 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tajutaj1808&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
+https://github-profile-trophy.vercel.app/?username=Tajutaj1808
 ![](https://github-profile-trophy.vercel.app/?username=Tajutaj1808&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
