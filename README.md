@@ -1,4 +1,4 @@
-# 💫 About Me:
+<!--# 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
@@ -16,3 +16,98 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Tajutaj1808&theme=tokyonight" />)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# Hi 👋 I'm Tajudeen
+
+💻 Final Year B.Tech Student  
+🔐 Cybersecurity & AI Enthusiast  
+🐧 Passionate about Linux, OSINT, and Ethical Hacking  
+
+---
+
+## ⭐ About Me
+
+- 🔭 I’m currently working on **Cybersecurity and AI projects**
+- 🌱 I’m currently learning **Linux security, OSINT tools, and Docker**
+- 🤝 I’m looking to collaborate on **Cybersecurity & AI projects**
+- 💬 Ask me about **Linux tools, cybersecurity basics, and OSINT**
+- ⚡ Fun fact: I enjoy building **security labs and experimenting with tools**
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn
+- Email
+- Instagram
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+- Python (Basic)
+- C
+- HTML
+
+**Tools & Technologies**
+- Linux
+- Kali Linux
+- Docker
+- Git
+- VMware
+- OSINT Tools
+
+---
+
+## 🚀 Projects
+
+🔹 **AI-Powered Regulatory Compliance Checker**  
+AI tool to analyze contracts and detect compliance risks.
+
+🔹 **Cybersecurity Home Lab**  
+Practice environment using Kali Linux and vulnerable machines.
+
+🔹 **OSINT Data Collection Automation**  
+Automated information gathering using n8n workflows.
+
+🔹 **Linux Command Practice Repository**  
+Collection of Linux commands and security tools practice.
+
+---
+
+## 🎯 Learning Platforms
+
+- TryHackMe  
+- Hack The Box  
+- Linux Journey  
+- Google Cloud Skills Boost  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tajutaj1808&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Tajutaj1808&theme=tokyonight)
+
+---
+
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tajutaj1808&layout=compact&theme=tokyonight)
+
+---
+
+## 📈 Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tajutaj1808&theme=github-dark)
+
+---
+
+## 👀 Profile Views
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Tajutaj1808&color=blue)
