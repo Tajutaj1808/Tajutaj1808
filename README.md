@@ -35,11 +35,26 @@
 ---
 
 ## 🌐 Connect With Me
+<h2 align="left">Connect With Me</h2>
 
-- LinkedIn
-- Email
-- Instagram
+###
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/shaiktajudeen" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  
+  <a href="shaiktajutaj123456@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  
+  <a href="tajutaj1812" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  
+  <a href="shaiktajutaj12345@outlook.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  </a>
+</div>
+
+###
 ---
 
 ## 🛠 Tech Stack
