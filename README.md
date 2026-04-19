@@ -37,19 +37,24 @@
 ## 🌐 Connect With Me
 ###
 
-<div align="left"style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://www.linkedin.com/in/shaiktajudeen" >
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+<div align="left" style="display: flex; align-items: center; gap: 10px;">
   
-  <a href="shaiktajutaj123456@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  
-  <a href="tajutaj1812" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  
-  <a href="shaiktajutaj12345@outlook.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  <a href="https://www.linkedin.com/in/shaiktajudeen" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" />
   </a>
+
+  <a href="mailto:shaiktajutaj123456@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" />
+  </a>
+
+  <a href="https://discord.com/users/tajutaj1808" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" />
+  </a>
+
+  <a href="mailto:shaiktajutaj12345@mail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="40" />
+  </a>
+
 </div>
 
 ###
