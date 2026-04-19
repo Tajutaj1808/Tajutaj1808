@@ -37,7 +37,7 @@
 ## 🌐 Connect With Me
 ###
 
-<div align="left" style="display: flex; align-items: center; gap: 10px;">
+<div align="left" style="display: flex; align-items: center; gap: 500000000000000000000000000000000000px;">
   
   <a href="https://www.linkedin.com/in/shaiktajudeen" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" />
